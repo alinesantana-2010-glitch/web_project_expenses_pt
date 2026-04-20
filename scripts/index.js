@@ -1,4 +1,4 @@
-const defaultExpenses = [...expenseEntries];
+
 
 function saveToLocalStorage(itemName, itemValue) {
   if (Array.isArray(itemValue)) {
